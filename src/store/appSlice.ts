@@ -6,6 +6,4 @@ export const appSlice = createSlice({
   reducers: { },
 });
 
-// export const { } = exercisesSlice.actions;
-
 export default appSlice.reducer;
